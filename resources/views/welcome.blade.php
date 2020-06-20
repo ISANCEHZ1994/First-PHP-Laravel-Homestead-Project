@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://isancehz1994.github.io/">Portfolio</a>
+                    <a href="https://isancehz1994.github.io/" style='background-color: red;'>Portfolio</a>
                     <a href="https://github.com/ISANCEHZ1994">GitHub</a>
                     <a href="https://www.linkedin.com/in/israel-sanchez-94132020/">LinkedIn</a>
                     <a href="https://www.kingdomhearts.com/home/us/">Hobby</a>
