@@ -79,14 +79,14 @@
                 </div>
             @endif
 
-            <div class="content">
+            <div class="content"> 
                 <div class="title m-b-md">
                    Israel's Favorite (Laravel) Project
                 </div>
 
                 <div class="links">
                     <a href="https://isancehz1994.github.io/" style='background-color: red;'>Portfolio</a>
-                    <a href="https://github.com/ISANCEHZ1994">GitHub</a>
+                    <a href="https://github.com/ISANCEHZ1994" style='background-color: blue;'>GitHub</a>
                     <a href="https://www.linkedin.com/in/israel-sanchez-94132020/">LinkedIn</a>
                     <a href="https://www.kingdomhearts.com/home/us/">Hobby</a>
                     <!-- <a href="https://nova.laravel.com">Nova</a>
